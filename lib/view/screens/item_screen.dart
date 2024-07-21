@@ -189,7 +189,9 @@ class ItemScreen extends StatelessWidget {
                             child: Text(
                               "01",
                               style: TextStyle(
-                                  fontWeight: FontWeight.bold, fontSize: 16.0),
+                                fontWeight: FontWeight.bold,
+                                fontSize: 16.0,
+                              ),
                             ),
                           ),
                           Icon(

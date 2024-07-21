@@ -1,7 +1,6 @@
 # food_ordering_app_ui
-
-A new Flutter project.
-
+Food Delivery App UI to practice your code.
+The App has 3 pages: welcome screen, home scree, and item screen.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
