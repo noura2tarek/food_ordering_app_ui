@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:food_ordering_app_ui/view/screens/test_screen.dart';
 import 'package:food_ordering_app_ui/view/screens/welcome_screen.dart';
 
 void main(){
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: WelcomeScreen(),
+      home: TestScreen(),
     );
   }
 }
